@@ -1,0 +1,36 @@
+/* critical */
+#meter 
+{
+    background-color: #282933;
+    height: 1cm;
+    width: 1cm;
+}
+
+body 
+{
+    background-color: #282933 !important;
+}
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+/* apply spacing between all elements in the option form */
+#optionForm * 
+{
+    margin: 5px;
+}
+
+canvas {
+    background-color: #282933;
+    border: none;
+}
+
+label 
+{
+    color: white !important;
+    margin-left: 10px;
+}
+
+.circle
+{
+    display: none;
+}
